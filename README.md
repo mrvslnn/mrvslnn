@@ -4,4 +4,6 @@
   <li>
     I'm currently working on a freelance project.
     </li>
+  <li>Ask me about Java, SQL, Selenium, Cucumber, TestNG, Junit, POM, Cypress, Restful, Postman
+  </li>
   </ul>
